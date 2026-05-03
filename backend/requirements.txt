@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+redis
+kafka-python
+sentence-transformers
+pydantic
+python-dotenv

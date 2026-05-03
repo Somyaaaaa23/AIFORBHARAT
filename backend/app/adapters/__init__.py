@@ -1,0 +1,1 @@
+# Per-department thin adapters
